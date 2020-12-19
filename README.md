@@ -2,7 +2,7 @@
 
 ## Project
 
-One of the best ways to classify music is on the basis of its genre, It can be used as a derived feature to supplement the music recommendation system. We are thinking of making a deep learning model to classify music.
+One of the best ways to classify music is on the basis of its genre. It can be used as a derived feature to supplement the music recommendation system.
 
 ## Parts of the project
 Comming soon.
