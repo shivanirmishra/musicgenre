@@ -14,4 +14,4 @@ Comming soon.
 ## Authors
 
 * **Shivani Mishra** - - [Shiv](https://github.com/shivanirmishra)
-* **Aditi Sharma** - - [Aditi](https://github.com/)
+* **Aditi Sharma** - - [Aditi](https://github.com/Adi-Shar)
